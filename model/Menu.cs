@@ -1,9 +1,10 @@
 
+using Interfaces.IMenu;
 using ParkModel;
 
 namespace MenuModel
 {
-    public class Menu
+    public class Menu : IMenu
     {
         public Menu()
         {
