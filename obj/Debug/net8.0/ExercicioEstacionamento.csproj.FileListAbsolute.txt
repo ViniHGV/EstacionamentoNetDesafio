@@ -13,3 +13,18 @@ C:\Users\LATITUDE E7250\Documents\projectsDotNet\ExercicioEstacionamento\obj\Deb
 C:\Users\LATITUDE E7250\Documents\projectsDotNet\ExercicioEstacionamento\obj\Debug\net8.0\ExercicioEstacionamento.pdb
 C:\Users\LATITUDE E7250\Documents\projectsDotNet\ExercicioEstacionamento\obj\Debug\net8.0\ExercicioEstacionamento.genruntimeconfig.cache
 C:\Users\LATITUDE E7250\Documents\projectsDotNet\ExercicioEstacionamento\obj\Debug\net8.0\ref\ExercicioEstacionamento.dll
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.AssemblyInfo.cs
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.sourcelink.json
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.dll
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\refint\ExercicioEstacionamento.dll
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.pdb
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\bin\Debug\net8.0\ExercicioEstacionamento.exe
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\bin\Debug\net8.0\ExercicioEstacionamento.deps.json
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\bin\Debug\net8.0\ExercicioEstacionamento.runtimeconfig.json
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\bin\Debug\net8.0\ExercicioEstacionamento.dll
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\bin\Debug\net8.0\ExercicioEstacionamento.pdb
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ExercicioEstacionamento.genruntimeconfig.cache
+C:\Users\ixxvi\Documents\.NETProjects\EstacionamentoNetDesafio\obj\Debug\net8.0\ref\ExercicioEstacionamento.dll

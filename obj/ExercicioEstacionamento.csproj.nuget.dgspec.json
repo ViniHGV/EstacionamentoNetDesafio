@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LATITUDE E7250\\Documents\\projectsDotNet\\ExercicioEstacionamento\\ExercicioEstacionamento.csproj": {}
+    "C:\\Users\\ixxvi\\Documents\\.NETProjects\\EstacionamentoNetDesafio\\ExercicioEstacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LATITUDE E7250\\Documents\\projectsDotNet\\ExercicioEstacionamento\\ExercicioEstacionamento.csproj": {
+    "C:\\Users\\ixxvi\\Documents\\.NETProjects\\EstacionamentoNetDesafio\\ExercicioEstacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LATITUDE E7250\\Documents\\projectsDotNet\\ExercicioEstacionamento\\ExercicioEstacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\ixxvi\\Documents\\.NETProjects\\EstacionamentoNetDesafio\\ExercicioEstacionamento.csproj",
         "projectName": "ExercicioEstacionamento",
-        "projectPath": "C:\\Users\\LATITUDE E7250\\Documents\\projectsDotNet\\ExercicioEstacionamento\\ExercicioEstacionamento.csproj",
-        "packagesPath": "C:\\Users\\LATITUDE E7250\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LATITUDE E7250\\Documents\\projectsDotNet\\ExercicioEstacionamento\\obj\\",
+        "projectPath": "C:\\Users\\ixxvi\\Documents\\.NETProjects\\EstacionamentoNetDesafio\\ExercicioEstacionamento.csproj",
+        "packagesPath": "C:\\Users\\ixxvi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ixxvi\\Documents\\.NETProjects\\EstacionamentoNetDesafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LATITUDE E7250\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ixxvi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
