@@ -1,4 +1,4 @@
-namespace Interfaces.IPark
+namespace Parking.Interfaces
 {
     public interface IPark
     {
