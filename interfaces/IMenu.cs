@@ -1,11 +1,11 @@
-using System;
-using System.Collections.Generic;
-using ParkModel;
 
-namespace Interfaces.IMenu
+
+using Parking.Models;
+
+namespace Parking.Interfaces
 {
     public interface IMenu
     {
-        void ListMenu(Park park);
+        void ListMenu();
     }
 }
