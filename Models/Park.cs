@@ -1,6 +1,6 @@
-using Interfaces.IPark;
+using Parking.Interfaces;
 
-namespace ParkModel
+namespace Parking.Models
 {
     public class Park : IPark
     {
