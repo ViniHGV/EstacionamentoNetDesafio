@@ -1,13 +1,14 @@
-﻿using ParkModel;
-using MenuModel;
+﻿using Parking.Models;
 
-internal class Program
+namespace Parking
 {
-    private static void Main(string[] args)
-    {
-        Park park = new Park();
-        Menu menu = new Menu();
+    internal class Program{
+        private static void Main(string[] args)
+        {
+            Park park = new Park();
+            Menu menu = new Menu(park);
 
-        menu.ListMenu(park);
+            menu.ListMenu();
+        }
     }
 }
